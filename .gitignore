@@ -1,6 +1,9 @@
 # Claude Code settings
 .claude/
 
+# Kilo directory (test files and artifacts)
+.kilo/
+
 # Dependencies
 node_modules/
 
