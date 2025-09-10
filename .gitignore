@@ -1,0 +1,23 @@
+# Claude Code settings
+.claude/
+
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Screenshots and test artifacts
+*.png
